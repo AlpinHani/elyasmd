@@ -1,4 +1,4 @@
-global.owner = ['6285643354073'] // Put your number here
+global.owner = ['6282287750102'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -48,9 +48,9 @@ global.author = `elyas(bot)
 
 
 
-ig: elyas_tzy`
+ig: en4y.pin`
 
-global.wm = 'by elyas'
+global.wm = 'by Alpin'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
 global.instagram = 'https://instagram.com/elyas_tzy'
