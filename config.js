@@ -1,6 +1,6 @@
 global.owner = ['6282287750102'] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['6282287750102'] // Want some help?
+global.prems = ['6282287750102'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -43,7 +43,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `elyas(bot)
+global.author = `Alpin(BOT)
 
 
 
